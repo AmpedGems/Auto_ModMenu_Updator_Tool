@@ -74,4 +74,10 @@ Template Support Expansion:
 Cross-Platform Support:
 
 - Extend compatibility to macOS, Linux, and Android devices.
+- 
+# Disclaimer
+
+Educational & Research Purposes Only
+This tool is intended solely for educational and research purposes. The developers do not condone any illegal activity or unauthorized modification of copyrighted software. Users are solely responsible for ensuring that they have the appropriate rights and permissions before using this tool on any game or application. The developers will not be held liable for any misuse or legal issues that arise from its use.
+
 
